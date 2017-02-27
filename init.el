@@ -51,8 +51,8 @@ values."
    dotspacemacs-additional-packages '()
    ;; A list of packages and/or extensions that will not be install and loaded.
 
-   dotspacemacs-excluded-packagorg-publish-org-to-htmlesorg-publish-org-to-html '()
-   ;; If non-nil spacemacorg-publish-org-to-htmls will deleteorg-publish-org-to-html any orphan packages, i.e. packages that
+   dotspacemacs-excluded-packag '()
+   ;; If non-nil spacemacs will delete any orphan packages, i.e. packages that
    ;; are declared in a layer which is not a member of
    ;; the list `dotspacemacs-configuration-layers'. (default t)
    dotspacemacs-delete-orphan-packages t))
